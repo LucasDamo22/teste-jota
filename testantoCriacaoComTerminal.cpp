@@ -9,4 +9,9 @@ int main (){
     std::cout << std::endl;
     std::cout << std::endl;
     std::cout << "Testando o terminal/fim"<< std::endl;
+
+    std::cout <<"Testando o terminal/fim"<< std::endl;
+    std::cout <<"Testando o terminal/fim"<< std::endl;
+    std::cout <<"Testando o terminal/fim"<< std::endl;
+    
 }
